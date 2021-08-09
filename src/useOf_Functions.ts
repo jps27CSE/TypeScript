@@ -12,6 +12,3 @@ const myFunctionTwo = (a: number, c?: string) => {
 }
 
 myFunction('soren', 'partho')
-
-
-
