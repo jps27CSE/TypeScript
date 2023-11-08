@@ -6,4 +6,4 @@
 
 Compile typescript to js : tsc "filename" example : tsc script.ts
 
-Auto Compilation : Watch Mode : tsc -w
+Auto Compilation : Watch Mode : tsc -w  , tsc [filename] --watch
